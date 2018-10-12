@@ -26,3 +26,5 @@ Inside your root directory ```package.js``` we are starting the electron server
   //Adonis server
   server = require("./app/server")
 ```
+
+![capture](https://github.com/kisese/adonisjs-electron/blob/master/capture.png)
