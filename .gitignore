@@ -58,3 +58,5 @@ typings/
 .env
 
 node_modules
+.idea
+app/.idea
