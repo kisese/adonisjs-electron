@@ -4,9 +4,7 @@
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
-    "start": "npm-run-all -p -r adonis electron",
-    "electron": "electron . ",
-    "adonis": "cd app && adonis serve --dev"
+    "start": "electron . "
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [

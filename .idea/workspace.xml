@@ -2,197 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5f101c-bac4-48ab-b5a0-96c3742ff8be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.idea/yardstick.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/Models/Token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app/Models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/bodyParser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/cors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/database.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/hash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/session.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/shield.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/database/factory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/database/migrations/1503248427885_user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/database/migrations/1503248427886_token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/pyramid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/title.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/resources/views/welcome.edge" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/start/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/start/kernel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/start/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/ace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Commands/Greet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Http/Controllers/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Http/Controllers/AuthController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Http/Controllers/ListController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Http/Controllers/RegisterController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Http/Middleware/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Http/kernel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Http/routes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Listeners/Http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Model/Hooks/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Model/Token.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Model/User.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Ws/Controllers/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Ws/kernel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/app/Ws/socket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/bootstrap/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/bootstrap/events.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/bootstrap/extend.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/bootstrap/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/bootstrap/kernel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/bodyParser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/cors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/database.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/session.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/config/shield.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/database/development.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/database/factory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/database/migrations/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/database/migrations/1497042626578_create_users_table.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/database/migrations/1497042626579_create_tokens_table.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/database/seeds/Database.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/providers/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/css/style-responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/css/table-responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/css/to-do.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/css/zabuto_calendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/blog-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/checkbox-gray.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/friends/fr-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/instagram.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/login-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/lorde.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/ny.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/portfolio/port01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/portfolio/port02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/portfolio/port03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/portfolio/port04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/portfolio/port05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/portfolio/port06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/product.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/product.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/profile-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/profile-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/radio-gray.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/ui-danro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/ui-divya.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/ui-sam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/ui-sherman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/ui-zac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/weather.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/img/zoom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/bootstrap-inputmask/bootstrap-inputmask.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/bootstrap-switch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/calendar-conf-events.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/chart-master/Chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/chartjs-conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/common-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/easy-pie-chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/fancybox/jquery.fancybox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/fancybox/jquery.fancybox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/form-component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/fullcalendar/bootstrap-fullcalendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/fullcalendar/fullcalendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter-conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter/css/jquery.gritter.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter/css/jquery.gritter0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter/images/gritter-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter/images/gritter-long.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter/images/gritter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter/images/ie-spacer.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/gritter/js/jquery.gritter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery-1.8.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery-ui-1.9.2.custom.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.backstretch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.dcjqaccordion.2.7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.nicescroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.scrollTo.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.sparkline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.tagsinput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/jquery.ui.touch-punch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/morris-conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/sparkline-chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/tasks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/js/zabuto_calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/lineicons/fonts/linecons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/lineicons/fonts/linecons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/lineicons/fonts/linecons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/lineicons/fonts/linecons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/lineicons/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/lineicons/lte-ie7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/lineicons/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/assets/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/public/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/resources/views/errors/index.njk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/resources/views/home.njk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/resources/views/login.njk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/resources/views/master.njk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/resources/views/n.njk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/resources/views/register.njk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/resources/views/welcome.njk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonis/server.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -215,32 +27,41 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ace" value="1" />
+          <entry key="env" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="2" />
-          <entry key="js" value="13" />
+          <entry key="html" value="3" />
+          <entry key="js" value="15" />
           <entry key="json" value="5" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="njk" value="2" />
           <entry key="npm-run-all" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="3" />
           <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="14" />
-          <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JavaScript" value="16" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="json" value="11" />
+          <entry key="env" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="2" />
+          <entry key="json" value="23" />
+          <entry key="md" value="609" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="11" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="23" />
+          <entry key="JavaScript" value="3" />
+          <entry key="Markdown" value="608" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -252,23 +73,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="-781" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/start/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -277,7 +104,19 @@
         <entry file="file://$PROJECT_DIR$/LICENSE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="-223" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="161">
+                <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -286,8 +125,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -308,6 +165,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>server</find>
+      <find>3333</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -316,9 +174,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/adonis/package.json" />
         <option value="$PROJECT_DIR$/adonis/bootstrap/http.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/app/.env" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -360,6 +222,12 @@
               <item name="adonisjs-electron" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="adonisjs-electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adonisjs-electron" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -400,15 +268,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539327765224</updated>
-      <workItem from="1539327768242" duration="3720000" />
+      <workItem from="1539327768242" duration="6079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3720000" />
+    <option name="totallyTimeSpent" value="6079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -489,13 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adonis/server.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -504,6 +366,46 @@
         <state relative-caret-position="276">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-223" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/start/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/renderer.js">
@@ -515,38 +417,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/ace">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="161">
+            <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
