@@ -2,7 +2,7 @@
 
 Note: This is an experiment but it offers a starting point.
 
-**Referinces**
+**References**
 1. [Electron API Demos](https://electronjs.org/#get-started)
 2. [Adonis JS](https://www.adonisjs.com/)
 
